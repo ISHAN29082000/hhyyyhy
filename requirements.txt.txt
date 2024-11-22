@@ -1,0 +1,6 @@
+Pillow
+numpy
+python==3.12
+streamlit
+ultralytics==8.0.43
+torch==2.1.0
